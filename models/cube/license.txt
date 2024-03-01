@@ -1,0 +1,11 @@
+Model Information:
+* title:	Companion Cube (Clean)
+* source:	https://sketchfab.com/3d-models/companion-cube-clean-be85e76e68044348b415036be893a81a
+* author:	Quana Brown (https://sketchfab.com/QSB)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Companion Cube (Clean)" (https://sketchfab.com/3d-models/companion-cube-clean-be85e76e68044348b415036be893a81a) by Quana Brown (https://sketchfab.com/QSB) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
